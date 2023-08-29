@@ -1,0 +1,12 @@
+{
+  "b": "#include<stdio.h>\nchar tape[1000000];\nint p;\nint main(){",
+  "+": "++tape[p];\n",
+  "-": "--tape[p];\n",
+  ",": "tape[p]=getchar();\n",
+  ".": "putchar(tape[p]);\n",
+  ">": "++p;\n",
+  "<": "--p;\n",
+  "[": "while(tape[p]){\n",
+  "]": "}\n",
+  "e": "return 0;\n}"
+}

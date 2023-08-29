@@ -1,0 +1,7 @@
+{
+  "cmd": {"+": "THIS IS NOT A BRAINFUCK DERIVATIVE", "-": "IT HAS NOTHING TO DO WITH BRAINFUCK", ">": "IT NEVER WAS", "<": "IT NEVER WILL BE", "[": "SHUT UP YOU LITTLE BITCH", "]": "SHUT THE FUCK UP", ".": "TO ANYBODY WHO SAYS THIS IS A BRAINFUCK DERIVATIVE:", ",": "FUCK YOU"},
+  "delims": [" "],
+  "actions": [
+    ["frombf","++++++[>+++++++++++++<-]>.>+++++++++++[>++++++++++<-]>+.+.-----------.>+++++[>+++++++++<-]>+."]
+  ]
+}
